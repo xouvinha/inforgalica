@@ -1,2 +1,0 @@
-# inforgalica
-website inforgalica
