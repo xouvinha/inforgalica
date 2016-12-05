@@ -1,0 +1,41 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="inforgalica.com" resolutions="1x" timestamp="1480908616714">
+  <folder name="css">
+    <file name="site_global.css" crc="3927673671"/>
+    <file name="master_a-p_g_-maestra.css" crc="4018922183" ref="contacto:servicios:index"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="3995452102" ref="contacto:servicios:index"/>
+    <file name="contacto.css" crc="345480200" ref="contacto"/>
+    <file name="nomq_contacto.css" crc="4159854828" ref="contacto"/>
+    <file name="servicios.css" crc="4249434213" ref="servicios"/>
+    <file name="nomq_servicios.css" crc="4089067404" ref="servicios"/>
+    <file name="index.css" crc="3789552842" ref="index"/>
+    <file name="nomq_index.css" crc="4133930" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:servicios:contacto"/>
+    <file name="museutils.js" crc="163421577" ref="index:servicios:contacto"/>
+    <file name="whatinput.js" crc="86476730" ref="index:servicios:contacto"/>
+    <file name="museconfig.js" crc="36584860" ref="index:servicios:contacto"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:servicios:contacto"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:servicios:contacto"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:servicios:contacto"/>
+    <file name="require.js" crc="244322403" ref="index:servicios:contacto"/>
+    <file name="webpro.js" crc="3848665353" ref="contacto"/>
+    <file name="form_check.php" crc="158155501" ref="contacto"/>
+    <file name="form_throttle.php" crc="3992970984" ref="contacto"/>
+    <file name="form_process.php" crc="4078697226" ref="contacto"/>
+    <file name="form-u874.php" crc="255929638" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:servicios:contacto"/>
+    <file name="logo-vector.svg" crc="300642726" seo="true" ref="index:servicios:contacto"/>
+    <file name="logo vector_poster_.png" crc="4014541529" ref="index"/>
+    <file name="fondo1.jpg" crc="8189421" ref="index"/>
+    <file name="macbook-air-all-faded-and-stuff.jpg" crc="132860855" ref="servicios"/>
+    <file name="macbook-air-all-faded-and-stuff-u966-fr.jpg" crc="3832879965" ref="servicios"/>
+    <file name="photo-1429051781835-9f2c0a9df6e4.jpg" crc="242903065" ref="contacto"/>
+    <file name="photo-1429051781835-9f2c0a9df6e4-u1009-fr.jpg" crc="136591803" ref="contacto"/>
+  </folder>
+  <file name="index.html" crc="3846329973" seo="true" mt="1480908452286" redirect="true"/>
+  <file name="servicios.html" crc="48165244" seo="true" mt="1480908585016" redirect="true"/>
+  <file name="contacto.html" crc="234983443" seo="true" mt="1480908452286" redirect="true"/>
+</manifest>
